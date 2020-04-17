@@ -1,0 +1,8 @@
+1: 17/04/2020:		 Day I: Search:
+	               			- DFS
+							- BFS
+							- Best First
+							- A *
+							- Min Max Algo
+							- Alpha Beta Pruning
+			
