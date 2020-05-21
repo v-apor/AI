@@ -1,2 +1,4 @@
 1: 21/05/2020: 	- NumPy Arrays and it's functions (cool stuff about broadcasting)
 		- Types of selections i.e, fetching elements from arrays (np array indexing)
+		- npArrays built in functions and operations (*,/,etc)
+		- np exercise
