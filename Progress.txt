@@ -2,3 +2,5 @@
 		- Types of selections i.e, fetching elements from arrays (np array indexing)
 		- npArrays built in functions and operations (*,/,etc)
 		- np exercise
+2: 22/05/2020: - Pandas intro and pd.Series() 
+		- Pandas dataframes (big one)
