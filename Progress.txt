@@ -7,3 +7,6 @@
 3: 23/05/2020: - Panda DataFrame handeling missing values
 		- GroupBy (To group rows according to some column and the apply some aggregate functions)
 		- Concat, Merge and Join DF
+		- Operations in pandas
+		- Input and output to DF (Only did csv, excel needs additional pkg to write, so only read it)
+		
