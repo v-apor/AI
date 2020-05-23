@@ -4,3 +4,4 @@
 		- np exercise
 2: 22/05/2020: - Pandas intro and pd.Series() 
 		- Pandas dataframes (big one)
+3: 23/05/2020: - Panda DataFrame handeling missing values
