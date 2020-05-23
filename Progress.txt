@@ -5,3 +5,4 @@
 2: 22/05/2020: - Pandas intro and pd.Series() 
 		- Pandas dataframes (big one)
 3: 23/05/2020: - Panda DataFrame handeling missing values
+		- GroupBy (To group rows according to some column and the apply some aggregate functions)
