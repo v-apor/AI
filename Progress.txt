@@ -9,4 +9,6 @@
 		- Concat, Merge and Join DF
 		- Operations in pandas
 		- Input and output to DF (Only did csv, excel needs additional pkg to write, so only read it)
+4: 24/05/2020: - Pandas Exercise: Felt the importance of doing exercises. I can see myself improving and getting to
+		 use DataFrames
 		
