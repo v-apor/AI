@@ -11,4 +11,5 @@
 		- Input and output to DF (Only did csv, excel needs additional pkg to write, so only read it)
 4: 24/05/2020: - Pandas Exercise: Felt the importance of doing exercises. I can see myself improving and getting to
 		 use DataFrames
+5: 25/05/2020: Started with Matplotlib. I'm having trouble showing the plot for .axes.... thing. Will Continue tomorrow.
 		
