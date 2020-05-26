@@ -12,4 +12,8 @@
 4: 24/05/2020: - Pandas Exercise: Felt the importance of doing exercises. I can see myself improving and getting to
 		 use DataFrames
 5: 25/05/2020: Started with Matplotlib. I'm having trouble showing the plot for .axes.... thing. Will Continue tomorrow.
+6: 26/05/2020: Solved for axes, I had to run the emptyCanvasObj definition, axes creation and plotting on the same cell
+	       - Canvas object creation using plt.figure() and it's axes i.e, subplots and putting labels , and titles.  
+		- Saving image 
+	     
 		
