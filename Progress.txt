@@ -16,5 +16,6 @@
 	       - Canvas object creation using plt.figure() and it's axes i.e, subplots and putting labels , and titles.  
 		- Saving image 
 		- Customising plots color, style, marker etc
+7: 27/05/2020: Matplotlib practice
 	     
 		
