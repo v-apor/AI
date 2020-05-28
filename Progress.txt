@@ -16,6 +16,14 @@
 	       - Canvas object creation using plt.figure() and it's axes i.e, subplots and putting labels , and titles.  
 		- Saving image 
 		- Customising plots color, style, marker etc
+
 7: 27/05/2020: Matplotlib practice
-	     
+
+8: 28/05/2020: Seaborn: included dataset (tips)
+		- DistPlot (Distribution Plot, kde = False/True)
+		- Joint Plot (Multi Variable DistPlot)
+		- pairPlot (pass dataframe, it's all possible joint plot in a dataframe)
+		- rugPlot (for frequency, used to create KDE)
+		- kde plot
+		- 
 		
