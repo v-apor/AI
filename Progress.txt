@@ -27,4 +27,7 @@
 		- kde plot
 
 9: 29/05/2020: seaborn categorical plots		
+		- matrix plot
+		- grids 
+		- regression
 		
