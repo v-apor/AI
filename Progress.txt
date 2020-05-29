@@ -30,4 +30,4 @@
 		- matrix plot
 		- grids 
 		- regression
-		
+		- style color and pallet
