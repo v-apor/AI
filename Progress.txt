@@ -25,5 +25,6 @@
 		- pairPlot (pass dataframe, it's all possible joint plot in a dataframe)
 		- rugPlot (for frequency, used to create KDE)
 		- kde plot
-		- 
+
+9: 29/05/2020: seaborn categorical plots		
 		
