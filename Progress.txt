@@ -31,3 +31,5 @@
 		- grids 
 		- regression
 		- style color and pallet
+
+10: 30/05/2020: Seaborn Exercise
