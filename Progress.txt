@@ -33,3 +33,7 @@
 		- style color and pallet
 
 10: 30/05/2020: Seaborn Exercise
+11: 01/06/2020: Pandas for DataViz (Quick) + Practice Problems
+
+12: 03/06/2020: Interactive Visuzlization using plotly and cufflinks
+		- Geographical Visuzlizations using plotly
