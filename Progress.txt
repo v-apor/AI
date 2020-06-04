@@ -37,3 +37,4 @@
 
 12: 03/06/2020: Interactive Visuzlization using plotly and cufflinks
 		- Geographical Visuzlizations using plotly
+13: 04/06/2020: Geographical Viz Practice
