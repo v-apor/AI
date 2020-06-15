@@ -40,3 +40,6 @@
 13: 04/06/2020: Geographical Viz Practice
 14: 08/06/2020: I started with project (udemy capstone), I'm not that well versed with data handeling via pandas.... 
 		Need to practice more, I took help from solution video to complete this project....
+
+15: 15/06/2020: Started with ML, types of performance metrics (accuracy, recall etc (need to study in depth))
+		+ installed scikitlearn and sample test of regression in created data
