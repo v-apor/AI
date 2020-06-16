@@ -43,3 +43,6 @@
 
 15: 15/06/2020: Started with ML, types of performance metrics (accuracy, recall etc (need to study in depth))
 		+ installed scikitlearn and sample test of regression in created data
+
+16: 16/06/2020: Linear regression, It doesn't seem that interesting anymore, the coursework isn't creating sense of intuition,
+		BTW I've been following Udemy Python for DS (Maybe cos it's more about Python not ML)
